@@ -1,13 +1,13 @@
        01 MY-GROUP.
-           05 IDENTIFIANTCT     PIC X(14) VALUE 'IdentifiantCT'.
+           05 IDENTIFIANTCT     PIC X(13) VALUE 'IdentifiantCT'.
            05 FILLER            PIC X(5).
            05 MUNA              PIC X(4) VALUE 'Muna'.
            05 FILLER            PIC X(5).
-           05 IDENTIFIANTSE     PIC X(14) VALUE 'IdentifiantSE'.
+           05 IDENTIFIANTSE     PIC X(13) VALUE 'IdentifiantSE'.
            05 FILLER            PIC X(5).
            05 MUNASE            PIC X(6) VALUE 'MunaSE'.
            05 FILLER            PIC X(5).
-           05 IDENTIFIANTRG     PIC X(14) VALUE 'IdentifiantRG'.
+           05 IDENTIFIANTRG     PIC X(13) VALUE 'IdentifiantRG'.
            05 FILLER            PIC X(5).
            05 MUNARG            PIC X(6) VALUE 'MunaRG'.
            05 FILLER            PIC X(5).
