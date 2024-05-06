@@ -1,13 +1,13 @@
        01  EXERCICE-ENTETE.
-           05 IDENTIFIANT-CT      PIC X(13) VALUE 'IdentifiantCT'.
+           05 IDENTIFIANT-CT      PIC X(14) VALUE 'Identifiant CT'.
            05 FILLER              PIC X(5) VALUE SPACES.
            05 MUNA                PIC X(4) VALUE 'Muna'.
            05 FILLER              PIC X(5) VALUE SPACES.
-           05 IDENTIFIANT-SE      PIC X(13) VALUE 'IdentifiantSE'.
+           05 IDENTIFIANT-SE      PIC X(14) VALUE 'Identifiant SE'.
            05 FILLER              PIC X(5) VALUE SPACES.
            05 MUNA-SE             PIC X(6) VALUE 'MunaSE'.
            05 FILLER              PIC X(5) VALUE SPACES.
-           05 IDENTIFIANT-RG      PIC X(13) VALUE 'IdentifiantRG'.
+           05 IDENTIFIANT-RG      PIC X(14) VALUE 'Identifiant RG'.
            05 FILLER              PIC X(5) VALUE SPACES.
            05 MUNA-RG             PIC X(6) VALUE 'MunaRG'.
            05 FILLER              PIC X(5) VALUE SPACES.
