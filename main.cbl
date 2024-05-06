@@ -47,7 +47,7 @@
            WRITE OUTPUTRECORD
                AFTER ADVANCING 1 LINE
 
-           * Boucle de traitement jusqu'à la fin du fichier.
+      * Boucle de traitement jusqu'à la fin du fichier.
            PERFORM UNTIL WS-EOF = 'Y'
                READ INPUTFILE
                    AT END MOVE 'Y' TO WS-EOF
